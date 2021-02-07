@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "2863036047",
+    "project_id": "aplicativo-loja-3c14b",
+    "storage_bucket": "aplicativo-loja-3c14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2863036047:android:fe8755ce1ef451376d22fa",
+        "android_client_info": {
+          "package_name": "com.zorzolli.apploja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2863036047-34dgocsmc24dqkt5kldil3hlbc4g6tp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zorzolli.apploja",
+            "certificate_hash": "d91f097a2a0f834798988227e4066cb0514c2f38"
+          }
+        },
+        {
+          "client_id": "2863036047-mr8ke7ka6f8g41djkmoghouhan2onpfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0hCUUOki5CoEiLRvMp5iFr7rBXIWzOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2863036047-mr8ke7ka6f8g41djkmoghouhan2onpfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
